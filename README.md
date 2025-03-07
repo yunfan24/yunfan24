@@ -1,6 +1,6 @@
 ## Hi there 👋
-**I'm a developer who loves creating interesting things with code.** 💻✨  
-**Besides coding, I also enjoy cycling, taking in the scenery along the way, and feeling the wind on my face.** 🚴‍♂️🌿💨
+I'm a developer who loves creating interesting things with code. 💻✨  
+Besides coding, I also enjoy cycling, taking in the scenery along the way, and feeling the wind on my face. 🚴‍♂️🌿💨
 <!--
 **yunfan24/yunfan24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
